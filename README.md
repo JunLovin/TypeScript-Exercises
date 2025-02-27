@@ -1,6 +1,6 @@
 # Ejercicios de TypeScript
 
-Ejercicios básicos de **[TypeScript](https://www.typescriptlang.org/)** para aprender los conceptos básicos.
+Ejercicios básicos de **[TypeScript](https://www.typescriptlang.org/)** para aprender los conceptos.
 
 > _Todos los ejercicios son de **[este repositorio](https://github.com/makeitrealcamp/ejercicios-javascript)**._
 > _Los ejercicios son de **JavaScript**, pero yo los estoy haciendo en **[TypeScript](https://www.typescriptlang.org/)**._
