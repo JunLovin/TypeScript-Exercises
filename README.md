@@ -1,1 +1,60 @@
-# TypeScript-Exercises
+# Ejercicios de TypeScript
+
+Ejercicios básicos de **[TypeScript](https://www.typescriptlang.org/)** para aprender los conceptos básicos.
+
+> _Todos los ejercicios son de **[este repositorio](https://github.com/makeitrealcamp/ejercicios-javascript)**._
+> _Los ejercicios son de **JavaScript**, pero yo los estoy haciendo en **[TypeScript](https://www.typescriptlang.org/)**._
+
+## Índice de Ejercicios
+
+### 1. [Contraseña Válida](./01-10/#1-Valid-Password/)
+Crear una función que reciba un string y retorne `true` si el string es igual a "2Fj(jjbFsuj" o "eoZiugBf&g9". De lo contrario debe retornar `false`
+
+### 2. [Calcular Impuestos](./01-10/#2-Calculate-Taxes/)
+Crear una función que reciba dos argumentos: `edad` e `ingresos`. Si la persona es mayor de 18 años y tiene ingresos iguales o superiores a 1000 debe retornar `ingresos` * 40%. De lo contrario debe retornar 0
+
+### 3. [IMC](./01-10/#3-BMI/)
+Crear una función que reciba dos argumentos: `peso` y `altura`. La función debe retornar una de las siguientes posibilidades:
+
+* Si el IMC es menor a 18.5 debe retornar "Bajo peso"
+* Si el IMC está entre 18.5 y 24.9 debe retornar "Normal"
+* Si el IMC está entre 25 y 29.9 debe retornar "Sobrepeso"
+* Si el IMC es mayor a 30 debe retornar "Obeso"
+
+### 4. [Imprimir un Array](./01-10/#4-Array-Print/)
+Crear una función que reciba un `arreglo` e imprima cada uno de sus elementos en una línea aparte.
+
+### 5. [Número de Likes](./01-10/#5-Likes-Number/)
+Crear una función que reciba un `número` y retorne un `string` utilizando el formato K para miles y M para millones.
+
+Por ejemplo: 
+
+* 1000 -> 1K
+* 23000 -> 23K
+* 234000 -> 234K
+* 1000000 -> 1M
+* 2340000 -> 2.3M
+
+### 6. [FizzBuzz](./01-10/#6-FizzBuzz/)
+Crear una función que reciba un `número` y retorne un `string` de acuerdo a lo siguiente:
+
+* Si el número es múltiplo de 3 debe retornar "Fizz"
+* Si el número es múltiplo de 5 debe retornar "Buzz"
+* Si el número es múltiplo de 3 y 5 debe retornar "FizzBuzz"
+* De lo contrario debe retornar el número
+
+### 7. [Contar un Array de Números](./01-10/#7-Count-Array-of-Numbers/)
+Crear una función que reciba dos `números` y retorne cuántos números hay entre ellos, excluyéndolos.
+
+**NOTE:** Se debe utilizar un ciclo. Se puede asumir que el primer valor será menor que el segundo.
+
+### 8. [Sumar Rango de Números](./01-10/#8%20Add-Number-Range/)
+Crear una función que reciba dos argumentos: `número incial` y `número final`. La función debe retornar la suma de todos los números entre ellos, incluidos.
+
+**NOTE:** Se puede asumir que el primer valor será menor o igual que el segundo.
+
+### 9. [Número de aes (letra "a")](./01-10/#9%20Number-of-a/)
+Crear una función que reciba un `string` y retorne cuántas veces aparece la letra "a".
+
+### 10. [Número de Carácteres](./01-10/#10-Characters-Number/)
+Crear una función que reciba un `string` y un `carácter` y retorne cuántas veces aparece el carácter en el string.
