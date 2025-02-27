@@ -58,3 +58,12 @@ Crear una función que reciba un `string` y retorne cuántas veces aparece la le
 
 ### 10. [Número de Carácteres](./01-10/#10-Characters-Number/)
 Crear una función que reciba un `string` y un `carácter` y retorne cuántas veces aparece el carácter en el string.
+
+### 11. [Sumar Arreglo](./11-21/#11-Array-Add/arrayAdd.ts)
+Escribir una función que reciba un `arreglo` de números y retorne la suma de todos los elementos.
+
+### 12. [Multiplicar Arreglo](./11-21/#12-Multiply-Array/multiplyArray.ts)
+Crear una función que reciba un `arreglo` de números y retorne la multiplicación de todos los elementos.
+
+### 13. [Remover Ceros](./11-21/#13-Zero-Remove/zeroRemove.ts)
+Crear una función que reciba un `arreglo` de números y retorne un nuevo arreglo excluyendo los ceros (0)
