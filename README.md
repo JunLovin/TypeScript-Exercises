@@ -67,3 +67,6 @@ Crear una función que reciba un `arreglo` de números y retorne la multiplicaci
 
 ### 13. [Remover Ceros](./11-21/#13-Zero-Remove/zeroRemove.ts)
 Crear una función que reciba un `arreglo` de números y retorne un nuevo arreglo excluyendo los ceros (0)
+
+### 14. [Sumar Arreglo Entre el Rango](./11-21/#14-Add-Array-In-Range/addArrayInRange.ts)
+Crear una función que reciba un `arreglo` de números y dos `números` (inicio y fin). La función debe retornar la suma de todos los elementos entre el rango de los índices.
