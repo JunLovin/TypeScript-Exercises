@@ -83,3 +83,6 @@ Los complementos son los siguientes:
 
 ### 16. [Capitalizar Palabra](./11-21/#16-Capitalize-Word/capitelizeWorld.ts)
 Escribir una función que reciba un `string` como parámetro y capitalice la primera letra
+
+### 17. [Capitalizar Cada Palabra](./11-21/#17-Capitalize-Each-Word/capitalizeEachWord.ts)
+Escribir una función que reciba un `string` y capitalice la primera letra de **cada palabra**
