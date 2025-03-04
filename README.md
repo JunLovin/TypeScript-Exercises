@@ -70,3 +70,13 @@ Crear una función que reciba un `arreglo` de números y retorne un nuevo arregl
 
 ### 14. [Sumar Arreglo Entre el Rango](./11-21/#14-Add-Array-In-Range/addArrayInRange.ts)
 Crear una función que reciba un `arreglo` de números y dos `números` (inicio y fin). La función debe retornar la suma de todos los elementos entre el rango de los índices.
+
+### 15. [Transcribir ADN a ARN](./11-21/#15-ADN-to-ARN/adnToArn.ts)
+Crear una función que reciba un `string` (una cadena de ADN) y retorne otro `string`, la cadena de ARN correspondiente.
+
+Los complementos son los siguientes:
+
+- G -> C
+- C -> G
+- T -> A
+- A -> U
