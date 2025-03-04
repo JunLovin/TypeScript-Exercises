@@ -79,4 +79,7 @@ Los complementos son los siguientes:
 - G -> C
 - C -> G
 - T -> A
-- A -> U
+- A -> 
+
+### 16. [Capitalizar Palabra](./11-21/#16-Capitalize-Word/capitelizeWorld.ts)
+Escribir una función que reciba un `string` como parámetro y capitalice la primera letra
