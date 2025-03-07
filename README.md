@@ -97,7 +97,7 @@ Escribir una función que reciba un `array` de números y retorne el número mí
 
 **Nota:** Intentarlo hacer sin el método `Math.min` de JavaScript.
 
-### 21. [Generar Contraseña](./11-21/#20-Gen-Pass/genPass.ts)
+### 20. [Generar Contraseña](./11-21/#20-Gen-Pass/genPass.ts)
 Escribir una función que reciba un `string` y retorne un nuevo `string` realizando los siguientes cambios:
 
 - Las mayúsculas se reemplazan por minúsculas.
