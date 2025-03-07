@@ -96,3 +96,13 @@ Escribir una función que reciba un `array` de números y retorne el número má
 Escribir una función que reciba un `array` de números y retorne el número mínimo:
 
 **Nota:** Intentarlo hacer sin el método `Math.min` de JavaScript.
+
+### 21. [Generar Contraseña](./11-21/#20-Gen-Pass/genPass.ts)
+Escribir una función que reciba un `string` y retorne un nuevo `string` realizando los siguientes cambios:
+
+- Las mayúsculas se reemplazan por minúsculas.
+- Se eliminan los espacios en blanco.
+- Reemplaza el caracter "a" por "4".
+- Reemplaza el caracter "e" por "3".
+- Reemplaza el caracter "i" por "1".
+- Reemplaza el caracter "o" por "0".
