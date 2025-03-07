@@ -86,3 +86,8 @@ Escribir una función que reciba un `string` como parámetro y capitalice la pri
 
 ### 17. [Capitalizar Cada Palabra](./11-21/#17-Capitalize-Each-Word/capitalizeEachWord.ts)
 Escribir una función que reciba un `string` y capitalice la primera letra de **cada palabra**
+
+### 18. [Encontrar el número máximo](./11-21/#18-Find-Max-Number/findMaxNumber.ts)
+Escribir una función que reciba un `array` de números y retorne el número máximo:
+
+**Nota:** Intentarlo hacer sin el método `Math.max` de JavaScript.
