@@ -106,3 +106,6 @@ Escribir una función que reciba un `string` y retorne un nuevo `string` realiza
 - Reemplaza el caracter "e" por "3".
 - Reemplaza el caracter "i" por "1".
 - Reemplaza el caracter "o" por "0".
+
+### 21. [Encontrar números pares en un arreglo](./11-21/#21-Find-EvenNums-Array/findEvenInArray.ts)
+Escribir una función que reciba un `arreglo` de números y retorne un nuevo `arreglo` con los números pares únicamente.
