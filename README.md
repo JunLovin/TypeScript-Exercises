@@ -91,3 +91,8 @@ Escribir una función que reciba un `string` y capitalice la primera letra de **
 Escribir una función que reciba un `array` de números y retorne el número máximo:
 
 **Nota:** Intentarlo hacer sin el método `Math.max` de JavaScript.
+
+### 19. [Encontrar el número mínimo](./11-21/#19-Find-Min-Number/findMinNumber.ts)
+Escribir una función que reciba un `array` de números y retorne el número mínimo:
+
+**Nota:** Intentarlo hacer sin el método `Math.min` de JavaScript.
