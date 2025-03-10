@@ -118,3 +118,10 @@ Escribir una función que reciba un `arreglo` de números y retorne un nuevo `ar
 
 ### 24. [Encontrar Palabras que Empiecen por "a"](./22-31/#24-Find-Words-With-A/findWordsWithA.ts)
 Escribir una función que reciba un `arreglo` de strings y retorne un nuevo `arreglo` con todas las palabras que empiecen por "a" (mayúscula y minúscula).
+
+
+### 25. [Encontrar Palabras que Terminan en "s"](./22-31/#25-Find-Words-With-S/findWordsWithS.ts)
+Escribir una función que reciba un `arreglo` de strings y retorne un nuevo `arreglo` con todas las palabras que terminen en "s" (mayúscula y minúscula).
+
+### 26. [Imprimir Una Matriz](./22-31/#26-Matriz-Print/matrizPrint.ts)
+Escribir una función que reciba una `matriz` (un arreglo de arreglos) e imprima todos los elementos del arreglo.
