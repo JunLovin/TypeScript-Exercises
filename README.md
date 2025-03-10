@@ -107,5 +107,14 @@ Escribir una función que reciba un `string` y retorne un nuevo `string` realiza
 - Reemplaza el caracter "i" por "1".
 - Reemplaza el caracter "o" por "0".
 
-### 21. [Encontrar números pares en un arreglo](./11-21/#21-Find-EvenNums-Array/findEvenInArray.ts)
+### 21. [Encontrar Números Pares en un Arreglo](./11-21/#21-Find-EvenNums-Array/findEvenInArray.ts)
 Escribir una función que reciba un `arreglo` de números y retorne un nuevo `arreglo` con los números pares únicamente.
+
+### 22. [Encontrar Posiciones de Números Impares](./22-31/#22-Find-Even-Positions/findEvenPositions.ts)
+Escribir una función que reciba un `arreglo` de números y retorne un `arreglo` con las posiciones donde se encuentran números pares.
+
+### 23. [Duplicar Elementos de un Arreglo](./22-31/#23-Duplicate-Array-Elements/duplicateArrayElements.ts)
+Escribir una función que reciba un `arreglo` de números y retorne un nuevo `arreglo` donde cada número esté multiplicado por dos (2).
+
+### 24. [Encontrar Palabras que Empiecen por "a"](./22-31/#24-Find-Words-With-A/findWordsWithA.ts)
+Escribir una función que reciba un `arreglo` de strings y retorne un nuevo `arreglo` con todas las palabras que empiecen por "a" (mayúscula y minúscula).
