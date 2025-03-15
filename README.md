@@ -126,8 +126,14 @@ Escribir una función que reciba un `arreglo` de strings y retorne un nuevo `arr
 ### 26. [Imprimir Una Matriz](./22-31/#26-Matriz-Print/matrizPrint.ts)
 Escribir una función que reciba una `matriz` (un arreglo de arreglos) e imprima todos los elementos del arreglo.
 
-### 27. [Traducir números a palabras](./22-31/#27-Numbers-To-Words/numbersToWords.ts)
+### 27. [Traducir Números a Palabras](./22-31/#27-Numbers-To-Words/numbersToWords.ts)
 Escribir una función que reciba un `arreglo` de números (cada número en el rango de 0 a 0) y retorne un nuevo `arreglo` conviertiendo cada número en su versión en palabras.
 
-### 28. [Traducir palabras a números](./22-31/#28-Words-To-Numbers/wordsToNumbers.ts)
+### 28. [Traducir Palabras a Números](./22-31/#28-Words-To-Numbers/wordsToNumbers.ts)
 Escribir una función que reciba un `arreglo` de strings y retorne un nuevo `arreglo` traduciendo cada palabra a su versión nu´merica (del 0 al 9). Si la palabra no es un número traducir a -1
+
+### 29. [Número de Asteriscos en un Arreglo](./22-31/#29-Num-Of-Asterisk/numOfAsterisk.ts)
+Escribir una función que reciba un `arreglo` de strings y retorne el `número` de asteriscos.
+
+### 30. [Número de Asteriscos en una Matriz](./22-31/#30-Num-Of-Asterisk-In-Matrix/numOfAsteriskInMatrix.ts)
+Escribir una función que reciba una `matriz` (un arreglo de arreglos) y retorne el `número` de asteriscos.
