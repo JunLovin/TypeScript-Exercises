@@ -137,3 +137,8 @@ Escribir una función que reciba un `arreglo` de strings y retorne el `número` 
 
 ### 30. [Número de Asteriscos en una Matriz](./22-31/#30-Num-Of-Asterisk-In-Matrix/numOfAsteriskInMatrix.ts)
 Escribir una función que reciba una `matriz` (un arreglo de arreglos) y retorne el `número` de asteriscos.
+
+### 31. [Distancia Entre Dos Strings](.//22-31/#31-Distance-Between-Two-Strings/distanceBetweenTwoStirngs.ts)
+Escribir una función quie reciba dos `strings` y retorne el `número` de carácteres diferentes (comparando posición por posición).
+
+**Nota:** Puedes asumir que los stirngs siempre tienen la misma longitud. Sin embargo, si quieres agregarle más dificultad puedes pensar cómo solucionarlo si un string es más largo que el otro (la distancia entre las longitudes agregaría el resultado).
